@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jungdodaebu26.github.io/jungdo/sitemap.xml
