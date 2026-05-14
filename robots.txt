@@ -1,2 +1,7 @@
+User-agent: *
+Allow: /
+
 User-agent: Yeti
-Allow:/
+Allow: /
+
+Sitemap: https://jungdodaebu26.github.io/sitemap.xml
